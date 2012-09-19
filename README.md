@@ -1,3 +1,5 @@
 ucloudbiz
 =========
-ucloudbiz openapi
+
+* ucloud openapi : personal
+* ucloudbiz openapi : biz
